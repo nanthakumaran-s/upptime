@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/59391441?v=4
   name: Nanthakumaran's Up time Monitor
   introTitle: Nanthakumaran's website status monitoring page
   introMessage: Latest checks 👇🏻
