@@ -16,9 +16,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Pradumna's Monitoring page
-  introTitle: Monitoring of Pradumna apps and site.
-  introMessage: Monitoring....
+  name: Nanthakumaran's Up time Monitor
+  introTitle: Nanthakumaran's website status monitoring page
+  introMessage: Latest checks 👇🏻
   navbar:
     - title: Status
       href: /
