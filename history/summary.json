@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 175,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 241,
+    "timeDay": 347,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1104,
-    "timeDay": 1738,
-    "timeWeek": 1104,
-    "timeMonth": 1104,
-    "timeYear": 1104,
+    "time": 1007,
+    "timeDay": 422,
+    "timeWeek": 1007,
+    "timeMonth": 1007,
+    "timeYear": 1007,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,19 @@
     "url": "https://nanthakumaran-s.github.io/Documenting-DevOps/#/",
     "icon": "https://icons.duckduckgo.com/ip3/nanthakumaran-s.github.io.ico",
     "slug": "documenting-dev-ops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 78,
+    "timeDay": 0,
     "timeWeek": 116,
     "timeMonth": 116,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   }
 ]
