@@ -40,19 +40,19 @@
     "url": "https://nanthakumaran-s.github.io/Documenting-DevOps/#/",
     "icon": "https://icons.duckduckgo.com/ip3/nanthakumaran-s.github.io.ico",
     "slug": "documenting-dev-ops",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 0,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 104,
+    "timeDay": 32,
+    "timeWeek": 104,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-01-19": 0
+      "2023-01-19": 20
     }
   }
 ]
