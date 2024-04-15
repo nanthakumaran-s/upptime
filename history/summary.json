@@ -4,36 +4,39 @@
     "url": "https://nanthakumaran.com",
     "icon": "https://icons.duckduckgo.com/ip3/nanthakumaran.com.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.91%",
     "time": 277,
     "timeDay": 316,
     "timeWeek": 308,
     "timeMonth": 302,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-15": 0
+    }
   },
   {
     "name": "Personal Blog",
     "url": "https://blog.nanthakumaran.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.nanthakumaran.com.ico",
     "slug": "personal-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.90%",
     "time": 496,
     "timeDay": 996,
     "timeWeek": 541,
     "timeMonth": 369,
     "timeYear": 411,
     "dailyMinutesDown": {
+      "2024-04-15": 0,
       "2023-06-08": 19,
       "2023-05-24": 22
     }
