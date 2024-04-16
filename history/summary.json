@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nanthakumaran.com.ico",
     "slug": "personal-website",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "86.29%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.91%",
     "time": 277,
-    "timeDay": 316,
-    "timeWeek": 308,
-    "timeMonth": 302,
+    "timeDay": 0,
+    "timeWeek": 307,
+    "timeMonth": 300,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2024-04-15": 0
+      "2024-04-16": 57,
+      "2024-04-15": 140
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.nanthakumaran.com.ico",
     "slug": "personal-blog",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.86%",
+    "uptimeDay": "86.29%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.90%",
     "time": 496,
-    "timeDay": 996,
-    "timeWeek": 541,
-    "timeMonth": 369,
+    "timeDay": 0,
+    "timeWeek": 569,
+    "timeMonth": 372,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2024-04-15": 0,
+      "2024-04-16": 57,
+      "2024-04-15": 140,
       "2023-06-08": 19,
       "2023-05-24": 22
     }
@@ -53,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 79,
-    "timeWeek": 104,
-    "timeMonth": 80,
+    "timeDay": 31,
+    "timeWeek": 98,
+    "timeMonth": 79,
     "timeYear": 85,
     "dailyMinutesDown": {}
   }
