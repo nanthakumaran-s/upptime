@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nanthakumaran.com.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "94.95%",
+    "uptime": "94.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.81%",
-    "time": 232,
-    "timeDay": 138,
-    "timeWeek": 114,
-    "timeMonth": 119,
-    "timeYear": 208,
+    "time": 231,
+    "timeDay": 73,
+    "timeWeek": 103,
+    "timeMonth": 118,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2024-11-04": 19,
       "2024-06-30": 1156,
@@ -61,8 +61,7 @@
       "2024-04-23": 464,
       "2024-04-22": 596,
       "2024-04-17": 17,
-      "2024-04-16": 700,
-      "2024-04-15": 140
+      "2024-04-16": 700
     }
   }
 ]
